@@ -1,0 +1,1 @@
+update testdb.dbo.ACCOUNT_TEST set GROUP_ID=100 where ACCOUNT_ID=100000004
